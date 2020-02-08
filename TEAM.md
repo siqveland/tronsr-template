@@ -2,4 +2,4 @@
 
 Name: Siqveland
 
-Role: TRX and cryprto enthusiast
+Role: TRX and crypto enthusiast
