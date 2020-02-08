@@ -1,1 +1,1 @@
-Describe your server configuration
+I will start off with AWS hosting for flexibility purposes. I would then like to move to either physical hardware or to a local cloud provider in order to fully show Sotlands presence. I will start with AWS server and expand as needed.
